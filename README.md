@@ -1,4 +1,4 @@
-# Vendor Master App
+# Otlopna Vendor App
 
 
 
