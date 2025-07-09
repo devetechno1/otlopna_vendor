@@ -1,4 +1,4 @@
-package com.devetechno.mastervendor
+package com.otlopna.otlopnavendor
 
 import io.flutter.embedding.android.FlutterActivity
 
